@@ -27,5 +27,5 @@ Automated waste sorting system using VGG16 transfer learning to classify images 
 3. Run Jupyter notebook: `jupyter notebook waste_classification.ipynb`
 
 ## Results Visualization
-![Accuracy Curves](images/accuracy_curves.png)
-![Loss Curves](images/loss_curves.png)
+![Accuracy Curves](images/AccuracyCurve-fine-tune-model.png)
+![Loss Curves](images/LossCurve-fine-tune-model.png)
